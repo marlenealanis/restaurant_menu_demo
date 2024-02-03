@@ -24,17 +24,17 @@
     }
 }
 
-@media (min-width: 300px) {
+@media (min-width: 600px) {
     
-    #container2 {
+    #container {
         display: flex;
     }
 
-    #main2{
+    #main{
         width:50%;
     }
 
-    #sidebar2 {
+    #sidebar {
         width:50%;
     }
 }
